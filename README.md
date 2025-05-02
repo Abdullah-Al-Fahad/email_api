@@ -8,7 +8,7 @@ A REST API for sending HTML emails with embedded images using Django REST Framew
 - Support for multiple email providers (Gmail, hotmail, Yahoo, careers@accelx.net.)
 - Image optimization and validation
 - Recipient domain validation
-- Base64 and CID embedding strategies
+- Base64 embedding strategies
 
 ## Prerequisites
 
