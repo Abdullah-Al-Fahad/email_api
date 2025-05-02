@@ -1,0 +1,12 @@
+# Core Requirements
+Django==5.0.3
+djangorestframework==3.14.0
+python-dotenv==1.0.0
+
+# Email & API
+sib-api-v3-sdk==8.4.3  # Brevo (SendinBlue) Python SDK
+requests==2.31.0
+
+# Image Processing
+Pillow==10.1.0  # For image optimization
+
